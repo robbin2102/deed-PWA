@@ -27,7 +27,7 @@ Deed is a Progressive web app that makes the experience of tokenization & tradin
 
 https://github.com/robbin2102/deed-PWA/assets/103725283/022c21ef-e332-4f67-9f5d-37e4b9950fad
 
-Complete [Prototype] (https://deed.so/version-test) for all screens.
+See [Prototype](https://deed.so/version-test) for all screens.
 
 ## Trade Pools
 
