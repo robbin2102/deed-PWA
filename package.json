@@ -1,0 +1,23 @@
+{
+    "name": "swappool",
+    "version": "1.0",
+    "description": "A Solana-based token swapping pool implementation",
+    "main": "swappool.js",
+    "dependencies": {
+      "@solana/web3.js": "^1.7.4",
+      "@solana/spl-token": "^3.5.0",
+      "@solana/spl-token-swap": "^1.0.8"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "Solana",
+      "token",
+      "swap",
+      "pool"
+    ],
+    "author": "Robbin Arora",
+    "license": "MIT"
+  }
+  
