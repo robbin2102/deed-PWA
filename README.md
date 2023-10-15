@@ -155,7 +155,7 @@ Traders need real time data about an asset's fundamentals- users, visitors, cust
 
 ## Links
 
-1. [Pre-launch] (https://deed.so/pre-launch)
-2. [Prototype] (https://deed.so/version-test)
+1. [Pre-launch](https://deed.so/pre-launch)
+2. [Prototype](https://deed.so/version-test)
 
-Reach us at robbin@deed.so for any queries.
+
