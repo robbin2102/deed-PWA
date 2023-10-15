@@ -27,7 +27,11 @@ To build Deed as a Progressive web app that makes the experience of tokenization
 
 
 
-https://github.com/robbin2102/deed-PWA/assets/103725283/022c21ef-e332-4f67-9f5d-37e4b9950fad
+https://github.com/robbin2102/deed-PWA/assets/103725283/5ce3259c-4224-425d-87ee-4287b071ea3e
+
+
+
+
 
 See [Prototype](https://deed.so/version-test) for all screens.
 
