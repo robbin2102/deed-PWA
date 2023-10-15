@@ -14,7 +14,7 @@ What is the value of Internet? ---Is it the total market cap of Google, Meta, Am
 1. Tokenization is complex with multiple barriers around paying gas fees & authorising individual transactions.
 2. Launching liquidity pools (trade pools) is neither easy nor intitutive even for many crypto natives.
 3. Tokenisation & trading of tokens happens on separate apps, causing pain to switch.
-4. Tokensation & liquidiy pools are disconnected from real world assets.
+4. Tokensation & liquidity pools are disconnected from real world assets.
 5. Mobile based tokenisation & trading has better UX, but crypto apps mostly get rejected on app stores.
 6. Rug & pull scams are common on popular AMMs with no safeguards for traders.
 
