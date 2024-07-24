@@ -1,5 +1,5 @@
 # Deed Utility Layer for Meme Token Markets
-Deed is a Progressive Web Application (PWA) designed to add utility to meme token markets, available on the testnet at https://deed.so/.
+Deed is a Progressive Web Application (PWA) designed to add a utility layer to meme token markets, available on the testnet at https://deed.so/.
 
 ## Overview
 
