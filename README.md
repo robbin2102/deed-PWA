@@ -33,7 +33,8 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 
 ### For Asset Owners
 
-![https___3db192e1babc29d34848745d03bcadc0 cdn bubble io_f1721661670015x971412971372109800_Screenshot%202024-07-22%20at%208 51 00%E2%80%AFPM](<img src="https://github.com/user-attachments/assets/719c29b2-1961-4e30-b542-1471523375e5" alt="For Asset Owners" width="300" height="300">)
+![https___3db192e1babc29d34848745d03bcadc0 cdn bubble io_f1721661670015x971412971372109800_Screenshot%202024-07-22%20at%208 51 00%E2%80%AFPM](https://github.com/user-attachments/assets/49d885db-d9bb-4ae3-94ab-80cb9ff5f3cb)
+
 
 
 * Discover FMV (Fair Market Value) of internet assets.
@@ -44,7 +45,8 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 
 ### For Traders and LPs
 
-![Screenshot 2024-07-24 at 1 47 17 AM](https://github.com/user-attachments/assets/5744673c-2df3-48ec-b28d-51bf4ca8e6c4)
+![Screenshot 2024-07-24 at 2 34 11 PM (1)](https://github.com/user-attachments/assets/c94bba1a-f91c-4644-b3cd-75a0b1a59163)
+
 
 
 
