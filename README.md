@@ -15,7 +15,7 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 
 ### For Traders and Liquidity Providers (LPs)
 
-* Short-life span with 99%+ pools abandoned daily due to rug pulls.
+* Short-life span with 99% pools abandoned daily due to rug pulls.
 * Duplicate tokens with the same metadata splitting market TVLs and volumes.
 * Liquidity traps with high yield pools.
 * No underlying asset data, metrics, or news to consistently trade meme tokens.
