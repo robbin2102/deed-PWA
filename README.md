@@ -1,15 +1,15 @@
 # Deed Utility Layer for Meme Token Markets
-Deed is a Progressive Web Application (PWA) designed to add utility to meme token markets, available on the testnet at deed.so.
+Deed is a Progressive Web Application (PWA) designed to add utility to meme token markets, available on the testnet at https://deed.so/.
 
 ## Overview
-Introduction
+
 Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The primary utility of meme tokens today is speculation. The characteristics of these markets are reminiscent of the first stock markets in Amsterdam:
 
-Short-life: 99% of meme tokens created are abandoned daily with liquidity withdrawals.
-Scams: Rug pulls are common.
-Low liquidity: Unstable and bait LP farms with unrealistic APRs to trap liquidity.
-Quick profits: Traders aim for quick gains.
-Casino wins: Only a small percentage of experienced traders make money while retail investors mostly lose.
+* Short-life: 99% of meme tokens created are abandoned daily with liquidity withdrawals.
+* Scams: Rug pulls are common.
+* Low liquidity: Unstable and bait LP farms with unrealistic APRs to trap liquidity.
+* Quick profits: Traders aim for quick gains.
+* Casino wins: Only a small percentage of experienced traders make money while retail investors mostly lose.
 
 ## Problems in Current Meme Token Markets
 
@@ -30,7 +30,8 @@ Casino wins: Only a small percentage of experienced traders make money while ret
 
 # Deed: Bringing Utility to Meme Token Markets
 
-## Meme Token Utilities
+![https___3db192e1babc29d34848745d03bcadc0 cdn bubble io_f1721661670015x971412971372109800_Screenshot%202024-07-22%20at%208 51 00%E2%80%AFPM](https://github.com/user-attachments/assets/c0d6aedf-18fe-4a25-b62d-42e2cebbdce5)
+
 
 ### For Asset Owners
 
