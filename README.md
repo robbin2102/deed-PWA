@@ -23,30 +23,45 @@ Casino wins: Only a small percentage of experienced traders make money while ret
 
 ### For Meme Token Creators
 
-Short-term and unsteady earnings with meme tokens created and abandoned daily.
-High competition and lack of moat due to duplicate tokens with the same metadata.
-Difficulty in building genuine communities around memes due to duplicacy of token metadata.
-Misaligned incentive structure leading to poor user experience and lower volumes and earnings.
-Deed: Bringing Utility to Meme Token Markets
-Meme Token Utilities
-For Asset Owners
-Discover FMV (Fair Market Value) of internet assets.
-Own a locked stake in LP to earn trade fees based on trading volume.
-Borrow funds against stake in LP.
-Integrate meme tokens with business to accept or make payments and offer loyalty rewards to customers.
-For Traders and LPs
-Trade meme tokens based on internet asset metrics data and news.
-Higher life span of tokens with real validated assets and owners.
-Unique tokens linked to unique assets, reducing duplicacy and confusion.
-High yield farms with lower risk of rug pulls.
-For Meme Token Operators
-Own or operate a unique meme token linked to an internet asset, eliminating competitors post-launch.
-Build meme communities around internet assets.
-Product Development
-Testnet
-PWA: Built using Tatum orderbook infrastructure.
-Blockchain: Utilizing Solana for blockchain infrastructure.
-Mainnet
-Utility Layer: Plan to build a utility layer between popular Solana and Ethereum DEXs using available SDKs like Jupiter (Solana).
-One-App Solution: Users can create utility meme tokens, launch liquidity pools, and trade all within one app, benefiting from unique and utility-focused meme tokens.
-Adding Screenshots
+* Short-term and unsteady earnings with meme tokens created and abandoned daily.
+* High competition and lack of moat due to duplicate tokens with the same metadata.
+* Difficulty in building genuine communities around memes due to duplicacy of token metadata.
+* Misaligned incentive structure leading to poor user experience and lower volumes and earnings.
+
+# Deed: Bringing Utility to Meme Token Markets
+
+## Meme Token Utilities
+
+### For Asset Owners
+
+* Discover FMV (Fair Market Value) of internet assets.
+* Own a locked stake in LP to earn trade fees based on trading volume.
+* Borrow funds against stake in LP.
+* Integrate meme tokens with business to accept or make payments and offer loyalty rewards to customers.
+
+
+### For Traders and LPs
+
+* Trade meme tokens based on internet asset metrics data and news.
+* Higher life span of tokens with real validated assets and owners.
+* Unique tokens linked to unique assets, reducing duplicacy and confusion.
+* High yield farms with lower risk of rug pulls.
+
+
+### For Meme Token Operators
+* Own or operate a unique meme token linked to an internet asset, eliminating competitors post-launch.
+* Build meme communities around internet assets.
+
+
+## Product Development
+
+### Testnet
+
+* PWA: Built using Tatum orderbook infrastructure.
+* Blockchain: Utilizing Solana for blockchain infrastructure.
+
+### Mainnet
+
+* Utility Layer: Plan to build a utility layer between popular Solana and Ethereum DEXs using available SDKs like Jupiter (Solana).
+* One-App Solution: Users can create utility meme tokens, launch liquidity pools, and trade all within one app, benefiting from unique and utility-focused meme tokens.
+
