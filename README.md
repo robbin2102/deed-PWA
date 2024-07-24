@@ -95,7 +95,8 @@ Utils of $DEED token-
 
 50% of DEED reserved for LPs who earn DEED based on volumes. Incentives of team & investors aligned with interest of users through proportional allocation based on trading volumes.
 
-![Screenshot 2024-07-24 at 2 40 17 PM](https://github.com/user-attachments/assets/95316df7-8b27-436d-88f0-4b0e9e5d2123)
+
+![Screenshot 2024-07-24 at 5 22 21 PM](https://github.com/user-attachments/assets/e08df719-da17-471d-8d2a-97394214759e)
 
 
 ### Contact us
