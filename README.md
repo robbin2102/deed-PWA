@@ -46,7 +46,7 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 ### For Traders and LPs
 
 
-![Screenshot 2024-07-24 at 2 34 11 PM (2)](https://github.com/user-attachments/assets/2bf593d2-9bfa-490a-a449-83ae6105340d)
+![Screenshot 2024-07-24 at 2 34 11 PM (3)](https://github.com/user-attachments/assets/2c96054c-c2db-47bf-baf0-01c3c717ec65)
 
 
 
