@@ -30,10 +30,11 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 
 # Deed: Bringing Utility to Meme Token Markets
 
-![https___3db192e1babc29d34848745d03bcadc0 cdn bubble io_f1721661670015x971412971372109800_Screenshot%202024-07-22%20at%208 51 00%E2%80%AFPM](https://github.com/user-attachments/assets/c0d6aedf-18fe-4a25-b62d-42e2cebbdce5)
-
 
 ### For Asset Owners
+
+![https___3db192e1babc29d34848745d03bcadc0 cdn bubble io_f1721661670015x971412971372109800_Screenshot%202024-07-22%20at%208 51 00%E2%80%AFPM](https://github.com/user-attachments/assets/719c29b2-1961-4e30-b542-1471523375e5)
+
 
 * Discover FMV (Fair Market Value) of internet assets.
 * Own a locked stake in LP to earn trade fees based on trading volume.
@@ -42,6 +43,9 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 
 
 ### For Traders and LPs
+
+![Screenshot 2024-07-24 at 2 34 11 PM](https://github.com/user-attachments/assets/cb34b891-fd77-4bfb-9ec9-f359a6365647)
+
 
 * Trade meme tokens based on internet asset metrics data and news.
 * Higher life span of tokens with real validated assets and owners.
@@ -66,3 +70,30 @@ Memecoins drive 73% of volumes on major decentralized exchanges (DEXs). The prim
 * Utility Layer: Plan to build a utility layer between popular Solana and Ethereum DEXs using available SDKs like Jupiter (Solana).
 * One-App Solution: Users can create utility meme tokens, launch liquidity pools, and trade all within one app, benefiting from unique and utility-focused meme tokens.
 
+## Enhanced UX for Pool Creation
+
+Create utility meme tokens in 1 click & deploy liquidity pools in 2 clicks within Deed PWA dapp. No need to jump apps for tokenization & deploying pools.
+
+![Screenshot 2024-07-24 at 2 37 16 PM](https://github.com/user-attachments/assets/f2be278b-5ed2-42b5-816a-9361dacdd593)
+
+## DEED utilities & tokenomics
+
+DEED is the utility token of Deed dapp. DEED is earned by liquidity providers based on trading volumes at a rate of 1 DEED for every $100 of trading volume (rewards subject to voting by DEED holders).
+
+Utils of $DEED token-
+
+* Choose to provide liquidity in DEED for higher APRs.
+* Earn trade fees in DEED & make payments related to internet asset.
+* Make loan repayments with DEED earnings in pool.
+* Create liquidity pools with DEED pairs to earn rewards based on volumes.
+
+## Tokenomics
+
+50% of DEED reserved for LPs who earn DEED based on volumes. Incentives of team & investors aligned with interest of users through proportional allocation based on trading volumes.
+
+![Screenshot 2024-07-24 at 2 40 17 PM](https://github.com/user-attachments/assets/95316df7-8b27-436d-88f0-4b0e9e5d2123)
+
+
+### Contact us
+
+For any job, partnership or funding queries email at reachus@deed.so
